@@ -11,5 +11,8 @@ public sealed class Rogue : Entity.Character
         Strength = 9;
         Intelligence = 8;
         Agility = 15;
+        Speed = 50;
+        Sexuality = 100;
+        Special = "Ma szczyt";
     }
 }

@@ -11,5 +11,8 @@ public sealed class Warrior : Entity.Character
         Strength = 14;
         Intelligence = 6;
         Agility = 8;
+        Speed = 50;
+        Sexuality = 100;
+        Special = "Uderza z fronta"; 
     }
 }
